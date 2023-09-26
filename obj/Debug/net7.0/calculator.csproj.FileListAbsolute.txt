@@ -1,0 +1,14 @@
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Documentos\meusProjetos\calculator\obj\Debug\net7.0\ref\calculator.dll
